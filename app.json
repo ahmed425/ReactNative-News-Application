@@ -1,0 +1,17 @@
+{
+  "name": "NewsApplication",
+  "displayName": "NewsApplication",
+  "expo": {
+    "name": "NewsApplication",
+    "slug": "NewsApplication",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
